@@ -2,6 +2,6 @@ numpy
 scikit-learn
 librosa
 soundfile
-tensorflow-cpu
+torch
 aiogram>=3.0
 python-dotenv
