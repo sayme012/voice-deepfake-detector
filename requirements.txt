@@ -1,0 +1,7 @@
+numpy
+scikit-learn
+librosa
+soundfile
+tensorflow-cpu
+aiogram>=3.0
+python-dotenv
